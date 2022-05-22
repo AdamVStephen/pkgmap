@@ -2,7 +2,7 @@
 
 Script and look up tables to help map package names between linux distros.
 
-Note that repology.com are a major resource for handling this problem.
+Note that https://repology.org/ is a major resource for handling this problem.
 
 ## Naming Things
 
