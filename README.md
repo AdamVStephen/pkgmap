@@ -20,3 +20,9 @@ distributions choose different names is inevitable in the absence of standardisa
 No doubt in due course a standardisation may emerge.
 
 
+
+## Submodule Tests A
+
+Test A is to move the pkgmap forward but leave develop at the origin.
+
+
